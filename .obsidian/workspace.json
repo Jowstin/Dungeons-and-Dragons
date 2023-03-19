@@ -13,26 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Jonathon's Dnd/Notes/Misc/Fortune.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8975c59e31c5c161",
+            "id": "184a01409a361b80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Jonathon's Dnd/Notes/Characters/People/Helios King.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b450b847bb06d61f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jonathon's Dnd/Notes/Characters/People/Helios King.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Jonathon's Dnd/Notes/Characters/People/Helios King.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Jonathon's Dnd/Notes/Characters/People/Helios King.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Jonathon's Dnd/Notes/Characters/People/Helios King.md"
               }
             }
           },
@@ -168,11 +180,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8975c59e31c5c161",
+  "active": "b450b847bb06d61f",
   "lastOpenFiles": [
-    "README.md",
-    "Untitled.canvas",
+    "Jonathon's Dnd/Notes/Locations/Cities/Helios.md",
+    "Jonathon's Dnd/Notes/Characters/People/Helios King.md",
+    "Jonathon's Dnd/Notes/Misc/Fortune.md",
+    "Jonathon's Dnd/Notes/Characters/People/Groups",
+    "Jonathon's Dnd/Notes/Misc/Truth",
+    "Jonathon's Dnd/Notes/Misc/Resources",
+    "Jonathon's Dnd/Notes/Misc/Runes",
+    "Jonathon's Dnd/Notes/Misc/Random Encounters",
+    "Jonathon's Dnd/Notes/Items/Magic Item",
+    "Jonathon's Dnd/Notes/Items/Quest",
+    "Jonathon's Dnd/Notes/Locations/Dungeons",
+    "Jonathon's Dnd/Notes/Locations/Outposts",
+    "Jonathon's Dnd/Notes/Locations/Cities",
     "Jonathon's Dnd/Minecraft.md",
-    "Jonathon's Dnd"
+    "Untitled.canvas",
+    "README.md"
   ]
 }
